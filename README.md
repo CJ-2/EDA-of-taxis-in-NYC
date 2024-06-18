@@ -1,4 +1,4 @@
-# NYC-EDA
+# NYC-taxi-EDA
 
 Exploratory data analysis of taxis in New York City using numpy.
 
